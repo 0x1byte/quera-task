@@ -49,7 +49,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "google_forms_clone.users",
-    # Your stuff: custom apps go here
+    "form",
 ]
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
